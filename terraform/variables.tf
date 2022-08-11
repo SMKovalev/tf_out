@@ -14,6 +14,6 @@ variable "yc_region" {
   default = "ru-central1-a"
 }
 
-variable "yc_image_id" {
+variable "yc_image_id"  {
   default = "fd81hgrcv6lsnkremf32"
 }
